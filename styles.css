@@ -31,14 +31,13 @@ body, html {
     font-family: var(--font);
 }
 
+a{
+    color: maroon;
+}
 img {
     width: 20%;
     border-radius: calc(var(--image) * 2);
     border: 2px solid var(--text);
-}
-
-a {
-    color: var(--text);
 }
 
 input {
